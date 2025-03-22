@@ -4,7 +4,7 @@
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VranlyMjkwMm5wdXo3bGF1c2hhNmU3djRkdHhvYnIyaHlnNTR0dCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ## 🚀 About Me  
-- 🖥️ **Software Analyst** – [Jethat Cyber Security, Noida](#) (Feb 2025 – Present)  
+- 🖥️ **Software Engineer** – [Jethat Cyber Security, Noida](#) (Feb 2025 – Present)  
 - 💻 **Trainee Programmer (Intern)** – [Jethat Cyber Security, Noida](#) (July 2024 – Feb 2025)  
 - 🎓 **B.Tech in Computer Science & Engineering** – *Feroze Gandhi Institute of Engineering and Technology*  
 - 🎓 **Diploma in Computer Science & Engineering** – *Government Polytechnic, Mau*  
