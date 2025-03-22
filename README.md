@@ -12,7 +12,7 @@
 ## 🔥 Skills  
 - **Programming:** Python 🐍 | C++ | JavaScript  
 - **Web Development:** React.js ⚛️ | HTML | CSS | Tailwind  
-- **AI & ML:** NLP | Deep Learning | Data Science  
+- **AI & ML:** NLP | Deep Learning | Computer Vision - OpenCV | pyTorch | Data Science  
 - **Databases:** MySQL | MongoDB  
 - **Tools:** Git | GitHub | Postman | VS Code  
 
